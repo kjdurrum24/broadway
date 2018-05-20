@@ -17,30 +17,40 @@ h1, h2, h3 {
 }
 
 
-#top-items {
-  font-size: 18px;
-  color: white!important;
-  font-weight: normal;
-}
 
-#header1 {
+.bkg-image h1 {
   font-size: 70px;
-
 }
 
-#header2 {
-  font-size: 32px;
-  font-weight: bold;
-
-}
-
-#header3 {
-  font-size: 23px;
-  font-weight: bold;
-}
-
-#white {
+.menu-items {
+  font-size: 18px;
   color: white;
-  font-weight: bold;
+}
+
+.supporting {
+  text-align: center;
+}
+
+.supporting h2 {
+  font-size: 32px;
+}
+
+.supporting h3 {
   font-size: 23px;
+}
+
+.supporting-item p {
+  font-size: 14px;
+}
+
+.bkg-image h2 {
+  font-size: 23px;
+}
+
+.footer {
+  background-color: dimgray;
+  font-size: 11px;
+  color: white;
+  padding: 8px 5px 8px 5px;
+
 }
