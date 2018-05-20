@@ -1,0 +1,18 @@
+body {
+}
+
+h1, h2, h3, p {
+  font-family: Helvetica, sans-serif;
+}
+
+#header {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+#top-items {
+  font-size: 18px;
+  color: white;
+}
+ 
