@@ -1,18 +1,24 @@
 body {
+  text-align: center;
 }
 
 h1, h2, h3, p {
   font-family: Helvetica, sans-serif;
-  text-align: center;
+}
+
+h2, h3, p {
+  color: black;
 }
 
 .header {
-  font-size: 70px;
   font-weight: bold;
   color: white;
   background-image: url("file:///Users/kenessa/Desktop/CODE-projects/broadway/resources/images/background.png");
+  background-position: center;
   background-size: cover;
+  padding: 10px 0px 10px 0px;
 }
+
 
 #top-items {
   font-size: 18px;
@@ -20,8 +26,22 @@ h1, h2, h3, p {
   font-weight: normal;
 }
 
-#black {
-  color: black;
-  font-weight: bold;
+#header1 {
+  font-size: 70px;
+
+}
+
+#header2 {
   font-size: 32px;
+  font-weight: bold;
+
+}
+
+#header3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.header2 {
+
 }
